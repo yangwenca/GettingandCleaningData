@@ -32,6 +32,7 @@ Step 4: Appropritately labels the data set with descriptive variable names
   - Save this dataset as data1.txt, there are 10299 rows and 81 columns in the data set
   
 Column variables:
+
  [1] "subject"                        
  [2] "activity"                       
  [3] "tBodyAcc-mean()-X"              
@@ -125,6 +126,7 @@ Step 5: A second, independent tidy data set with the average of each variable fo
 
 
 Column variables:
+
  [1] "subject"                        
  [2] "activity"                       
  [3] "tBodyAcc-mean()-X"              
